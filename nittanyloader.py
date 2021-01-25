@@ -1,0 +1,1 @@
+print("Welcome to the Player Project. Copyright 2021 IconicxGROUP, the app should open automaticly in 10 seconds.")
